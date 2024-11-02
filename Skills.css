@@ -1,0 +1,63 @@
+.Nav {
+    text-decoration: none;
+    color: black; /* Change to any color you'd like */
+    font-weight: bold;
+    margin-left: 7%;
+    font-family: "Prociono", serif;
+}
+
+/* Hover effect */
+.Nav:hover {
+    color: blueviolet;
+    text-decoration:overline;
+}
+.pord1{
+    box-shadow: 3px -1px 3px 0px #AC84FF;
+    border-radius: 100px;
+    width: 49%;
+    height: 200px;
+    padding: 10px 25px 10px 10px;
+    padding-bottom: 40%;
+    margin: -1% 15.50%;
+}
+.SKILLS {
+    margin: 10px;
+    padding: 5px 30px;
+    color: blueviolet;
+}
+.Call{
+    margin: 20px;
+    margin-top: -15px;
+    padding: -2px 5px;
+    font-size: medium;
+}
+.SKILLS-UL{
+    margin: 1px;
+    font-size: medium;
+    padding: 0.5%;
+    color:  #A14E09;
+}
+.LANGUAGE{
+    color: blueviolet;
+}
+.Language{
+    margin: -107.5% 55%;
+}
+.LANGUAGE-L{
+    margin: 2px;
+    margin-bottom: 5px;
+    font-size: medium;
+    color:  #A14E09;
+}
+.Hobbys{
+    margin: -41% 44%;
+}
+.HOBBYS{
+    color: blueviolet;
+}
+.HOBBYS-ul{
+    margin: 2px;
+    margin-bottom: 5px;
+    font-size: medium;
+    color:  #A14E09;
+}

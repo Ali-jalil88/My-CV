@@ -1,0 +1,100 @@
+/* .title{
+    -webkit-box-shadow: 3px 3px 20px 3px #AC84FF; 
+    box-shadow: 3px 3px 20px 3px #AC84FF;
+} */
+header {
+    box-shadow: 3px -1px 3px 0px #AC84FF;
+    border-radius: 50px;
+    text-align: center;
+    /* padding: 5px 2px 2px 5px; */
+    background-color:white;
+    color: #bbb;
+}   
+.pord1{
+/* -webkit-box-shadow: 3px 3px 20px 3px #AC84FF; 
+box-shadow: 3px 3px 20px 3px #AC84FF; */
+box-shadow: 3px -1px 3px 0px #AC84FF;
+/* background-color : #ecf0f1; */
+border-radius: 100px;
+width: 17%;
+height: 100px;
+padding: 10px 25px 10px 10px;
+padding-bottom: 40%;
+margin: 3.50% 15.50%;
+}
+.card img{
+    border-radius: 50%;
+    width: 270px;
+    height: 290px;
+}
+.KONTAKT {
+    color: blueviolet;
+}
+.Call{
+    font-size: medium;
+}
+.KONTAKT-UL{
+    font-size: medium;
+    padding: 0%;
+    color:  #A14E09;
+}
+.pord2{
+    /* -webkit-box-shadow: 3px 3px 20px 3px #AC84FF; 
+    box-shadow: 3px 3px 20px 3px #AC84FF; */
+    box-shadow: 3px -1px 3px 0px #AC84FF;
+    /* background-color :#ecf0f1; */
+    border-radius: 100px;
+    width: 50%;
+    height: 100px;
+    padding: 10px -5px 10px 10px;
+    padding-bottom: 40%;
+    margin: -51% 35%;
+}
+.name{
+    padding: 7% 1% 5% 5%;
+}
+.STUDIUM{
+    padding: 0% 0% 0% 5%;
+    font-size: large;
+}
+.Studium{
+    color: blueviolet;
+}
+.Department{
+    padding: 1% 1% 0% 1%;
+    color:  #A14E09;
+}
+.University{
+    color: black;
+}
+
+.ARBEITSERFAHRUNG{
+    padding: 0% 5% 5% 5%;
+    color: blueviolet;
+}
+.Company{
+    font-size: large;
+    color: black;
+}
+.Company-Department{
+    font-size: large;
+    padding: 1% 1% 0% 1%;
+    color:  #A14E09;
+}
+.Nav {
+    text-decoration: none;
+    color: #bbb; /* Change to any color you'd like */
+    font-weight: bold;
+}
+
+/* Hover effect */
+.Nav:hover {
+    color: blueviolet;
+    text-decoration:overline;
+}
+
+h1{
+    font-family: "Chokokutai", system-ui;
+
+}
+    
